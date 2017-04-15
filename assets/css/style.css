@@ -1,0 +1,16 @@
+element.style {
+
+}
+
+#name {
+    width: 960px;
+    height: 80px;
+}
+
+header {
+    border-bottom: solid 3px #dddddd;
+    border-bottom-width: 3px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(221, 221, 221);
+}
+
